@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Senkita
+- 👀 I’m interested in programmering
+- 🌱 I’m currently learning frontend & backend technology to be a fullstack developer
+- 💞️ I’m looking to collaborate on people who like minded
+- 📫 You can find me at [@Senkita](https://github.com/Senkita) or [@DeerChen](http://github.com/DeerChen)
